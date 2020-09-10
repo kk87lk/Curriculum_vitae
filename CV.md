@@ -5,7 +5,7 @@
 
 ---
 # 个人信息
- - 徐大瑞/男/1999 
+ - 徐大瑞/男/1999/江苏盐城人
  - 本科/盐城师范学院17届软件工程系
  - Github：http://github.com/kk87lk 
  - Leetcode：https://leetcode-cn.com/u/kk87lk/
