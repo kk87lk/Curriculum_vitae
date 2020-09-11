@@ -9,7 +9,7 @@
  - 本科/盐城师范学院17届软件工程系
  - Github：http://github.com/kk87lk 
  - Leetcode：https://leetcode-cn.com/u/kk87lk/
- - 对工作有热情 学习能力强 性格开朗
+ - 对工作有热情 学习能力强 性格开朗 擅于合作及交流
 
 ---
 # 技能清单
